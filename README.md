@@ -82,7 +82,7 @@ A Machine Learning web application that detects whether a credit card transactio
 
 creditcardf/
 
-│── app\_v2.py
+│── app.py
 
 │── fraud\_model.pkl
 
